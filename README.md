@@ -1,2 +1,2 @@
 # Crypto-Website
-This is a crypto website
+This is a crypto website.
